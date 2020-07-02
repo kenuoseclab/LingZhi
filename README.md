@@ -20,7 +20,7 @@
 ##### 2.访问火器获取
 登录火线后，访问“火器-灵芝IAST”，点击“下载安装灵芝”即可看到“IAST Token”
 
-![get_iast_token](assets/get_iast_token.gif)
+![get_iast_token](doc/assets/tutorial/get_iast_token.gif)
 
 #### 部署AGENT
 方式1：没有Java环境，想试试，那就访问[【火器】“灵芝IAST”交互式应用安全测试工具使用姿势](https://mp.weixin.qq.com/s/VRZE5eRfjGK66yyTK4UkbA) 查看快速使用姿势吧
@@ -103,4 +103,4 @@ IAST与框架本身无关，理论上只要在节点上都安装agent就可以�
 
 2.微信群：需要邀请码或想进群交流的表哥们，请扫描二维码加🔥表弟的个人微信，表弟会把大家拉进技术交流群
 
-![看不到图片了吗？微信搜索“owefsad”试试啦](assets/wechat.jpeg)
+![看不到图片了吗？微信搜索“owefsad”试试啦](doc/assets/aboutus/wechat.jpeg)
