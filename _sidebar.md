@@ -16,6 +16,7 @@
   - [检测能力](doc/features/detects.md)
 - 版本变更
   - [版本变更](doc/changes/changelog.md)
-- [贡献榜](doc/contributions.md)
+- 贡献榜
+  - [贡献榜](doc/contributions.md)
 - 关于我们
   - [技术支持](doc/aboutus/support.md)
