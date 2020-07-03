@@ -15,4 +15,4 @@
 
 4.访问靶场地址：
 - [命令执行](http://localhost:8080/iast-test01/cmd.jsp?cmd=id)
-- [EL表达式执行](http://localhost:8080/iast-test01/ognl.jsp?exp=#T(java.lang.Runtime).getRuntime().exec('whoami'))
+- [EL表达式执行](http://localhost:8080/iast-test01/ognl.jsp?exp=T(java.lang.Runtime).getRuntime().exec(%27whoami%27))
